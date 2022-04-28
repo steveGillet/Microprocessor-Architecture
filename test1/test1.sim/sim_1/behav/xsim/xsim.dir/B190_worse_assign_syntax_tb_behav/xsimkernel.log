@@ -1,0 +1,7 @@
+Running: xsim.dir/B190_worse_assign_syntax_tb_behav/xsimk.exe -simmode gui -wdb B190_worse_assign_syntax_tb_behav.wdb -simrunnum 0 -socket 62936
+Design successfully loaded
+Design Loading Memory Usage: 5948 KB (Peak: 5948 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 6620 KB (Peak: 6620 KB)
+Simulation CPU Usage: 30 ms

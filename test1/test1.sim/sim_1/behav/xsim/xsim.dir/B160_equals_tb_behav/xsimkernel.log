@@ -1,0 +1,7 @@
+Running: xsim.dir/B160_equals_tb_behav/xsimk.exe -simmode gui -wdb B160_equals_tb_behav.wdb -simrunnum 0 -socket 65148
+Design successfully loaded
+Design Loading Memory Usage: 6376 KB (Peak: 6376 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 7036 KB (Peak: 7036 KB)
+Simulation CPU Usage: 31 ms

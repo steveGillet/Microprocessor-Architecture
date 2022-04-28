@@ -1,0 +1,10 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/steph/OneDrive/Desktop/School/Microprocessor Architecture/homework2/homework2.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/steph/OneDrive/Desktop/School/Microprocessor Architecture/homework2/homework2.srcs/sim_1/new/homework2TB.v,1644461798,verilog,,,,homework2TB,,,,,,,,
+C:/Users/steph/OneDrive/Desktop/School/Microprocessor Architecture/homework2/homework2.srcs/sources_1/new/alu.v,1644459858,verilog,,C:/Users/steph/OneDrive/Desktop/School/Microprocessor Architecture/homework2/homework2.srcs/sources_1/new/homework2.v,,alu,,,,,,,,
+C:/Users/steph/OneDrive/Desktop/School/Microprocessor Architecture/homework2/homework2.srcs/sources_1/new/homework2.v,1644461459,verilog,,C:/Users/steph/OneDrive/Desktop/School/Microprocessor Architecture/homework2/homework2.srcs/sources_1/new/homework2barrelShift.v,,functionUnit,,,,,,,,
+C:/Users/steph/OneDrive/Desktop/School/Microprocessor Architecture/homework2/homework2.srcs/sources_1/new/homework2barrelShift.v,1644461598,verilog,,C:/Users/steph/OneDrive/Desktop/School/Microprocessor Architecture/homework2/homework2.srcs/sources_1/new/muxF.v,,barrelShift,,,,,,,,
+C:/Users/steph/OneDrive/Desktop/School/Microprocessor Architecture/homework2/homework2.srcs/sources_1/new/muxF.v,1644461177,verilog,,C:/Users/steph/OneDrive/Desktop/School/Microprocessor Architecture/homework2/homework2.srcs/sim_1/new/homework2TB.v,,muxF,,,,,,,,

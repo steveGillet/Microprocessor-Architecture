@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="homework2TB_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="homework2TB" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="244860fs"></ZoomStartTime>
+      <ZoomEndTime time="328361fs"></ZoomEndTime>
+      <Cursor1Time time="360120fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="86"></NameColumnWidth>
+      <ValueColumnWidth column_width="72"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="15" />
+   <wvobject fp_name="/homework2TB/mFs" type="logic">
+      <obj_property name="ElementShortName">mFs</obj_property>
+      <obj_property name="ObjectShortName">mFs</obj_property>
+   </wvobject>
+   <wvobject fp_name="/homework2TB/gS" type="array">
+      <obj_property name="ElementShortName">gS[2:0]</obj_property>
+      <obj_property name="ObjectShortName">gS[2:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/homework2TB/carryIn" type="logic">
+      <obj_property name="ElementShortName">carryIn</obj_property>
+      <obj_property name="ObjectShortName">carryIn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/homework2TB/hSel" type="array">
+      <obj_property name="ElementShortName">hSel[1:0]</obj_property>
+      <obj_property name="ObjectShortName">hSel[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/homework2TB/a" type="array">
+      <obj_property name="ElementShortName">a[31:0]</obj_property>
+      <obj_property name="ObjectShortName">a[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/homework2TB/bA" type="array">
+      <obj_property name="ElementShortName">bA[31:0]</obj_property>
+      <obj_property name="ObjectShortName">bA[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/homework2TB/bS" type="array">
+      <obj_property name="ElementShortName">bS[31:0]</obj_property>
+      <obj_property name="ObjectShortName">bS[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/homework2TB/f" type="array">
+      <obj_property name="ElementShortName">f[31:0]</obj_property>
+      <obj_property name="ObjectShortName">f[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/homework2TB/i" type="array">
+      <obj_property name="ElementShortName">i[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/homework2TB/uut/muxF/g" type="array">
+      <obj_property name="ElementShortName">g[31:0]</obj_property>
+      <obj_property name="ObjectShortName">g[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/homework2TB/uut/muxF/h" type="array">
+      <obj_property name="ElementShortName">h[31:0]</obj_property>
+      <obj_property name="ObjectShortName">h[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/homework2TB/v" type="logic">
+      <obj_property name="ElementShortName">v</obj_property>
+      <obj_property name="ObjectShortName">v</obj_property>
+   </wvobject>
+   <wvobject fp_name="/homework2TB/c" type="logic">
+      <obj_property name="ElementShortName">c</obj_property>
+      <obj_property name="ObjectShortName">c</obj_property>
+   </wvobject>
+   <wvobject fp_name="/homework2TB/n" type="logic">
+      <obj_property name="ElementShortName">n</obj_property>
+      <obj_property name="ObjectShortName">n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/homework2TB/z" type="logic">
+      <obj_property name="ElementShortName">z</obj_property>
+      <obj_property name="ObjectShortName">z</obj_property>
+   </wvobject>
+</wave_config>

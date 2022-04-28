@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="vendingTB_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="vendingTB" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="77868fs"></ZoomStartTime>
+      <ZoomEndTime time="211569fs"></ZoomEndTime>
+      <Cursor1Time time="209168fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="127"></NameColumnWidth>
+      <ValueColumnWidth column_width="72"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="33" />
+   <wvobject fp_name="/vendingTB/nickel" type="logic">
+      <obj_property name="ElementShortName">nickel</obj_property>
+      <obj_property name="ObjectShortName">nickel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vendingTB/dime" type="logic">
+      <obj_property name="ElementShortName">dime</obj_property>
+      <obj_property name="ObjectShortName">dime</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vendingTB/quarter" type="logic">
+      <obj_property name="ElementShortName">quarter</obj_property>
+      <obj_property name="ObjectShortName">quarter</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vendingTB/halfDollar" type="logic">
+      <obj_property name="ElementShortName">halfDollar</obj_property>
+      <obj_property name="ObjectShortName">halfDollar</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vendingTB/dollar" type="logic">
+      <obj_property name="ElementShortName">dollar</obj_property>
+      <obj_property name="ObjectShortName">dollar</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vendingTB/uut/coinCounter/balance" type="array">
+      <obj_property name="ElementShortName">balance[9:0]</obj_property>
+      <obj_property name="ObjectShortName">balance[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vendingTB/uut/coinCounter/moneyIn" type="array">
+      <obj_property name="ElementShortName">moneyIn[6:0]</obj_property>
+      <obj_property name="ObjectShortName">moneyIn[6:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vendingTB/uut/coinCounter/purchase" type="logic">
+      <obj_property name="ElementShortName">purchase</obj_property>
+      <obj_property name="ObjectShortName">purchase</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vendingTB/uut/coinCounter/change" type="array">
+      <obj_property name="ElementShortName">change[9:0]</obj_property>
+      <obj_property name="ObjectShortName">change[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vendingTB/uut/changeMaker/changeDispensed" type="array">
+      <obj_property name="ElementShortName">changeDispensed[9:0]</obj_property>
+      <obj_property name="ObjectShortName">changeDispensed[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vendingTB/mtnDew" type="logic">
+      <obj_property name="ElementShortName">mtnDew</obj_property>
+      <obj_property name="ObjectShortName">mtnDew</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vendingTB/uut/mtnDewPending" type="logic">
+      <obj_property name="ElementShortName">mtnDewPending</obj_property>
+      <obj_property name="ObjectShortName">mtnDewPending</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vendingTB/mtnDewOut" type="logic">
+      <obj_property name="ElementShortName">mtnDewOut</obj_property>
+      <obj_property name="ObjectShortName">mtnDewOut</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vendingTB/uut/coinCounter/approved" type="logic">
+      <obj_property name="ElementShortName">approved</obj_property>
+      <obj_property name="ObjectShortName">approved</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vendingTB/nickelOut" type="logic">
+      <obj_property name="ElementShortName">nickelOut</obj_property>
+      <obj_property name="ObjectShortName">nickelOut</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vendingTB/nickelInv" type="array">
+      <obj_property name="ElementShortName">nickelInv[4:0]</obj_property>
+      <obj_property name="ObjectShortName">nickelInv[4:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vendingTB/exactChangeOnly" type="logic">
+      <obj_property name="ElementShortName">exactChangeOnly</obj_property>
+      <obj_property name="ObjectShortName">exactChangeOnly</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vendingTB/dollarOut" type="logic">
+      <obj_property name="ElementShortName">dollarOut</obj_property>
+      <obj_property name="ObjectShortName">dollarOut</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vendingTB/hasChange" type="logic">
+      <obj_property name="ElementShortName">hasChange</obj_property>
+      <obj_property name="ObjectShortName">hasChange</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vendingTB/coke" type="logic">
+      <obj_property name="ElementShortName">coke</obj_property>
+      <obj_property name="ObjectShortName">coke</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vendingTB/water" type="logic">
+      <obj_property name="ElementShortName">water</obj_property>
+      <obj_property name="ObjectShortName">water</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vendingTB/coinReturn" type="logic">
+      <obj_property name="ElementShortName">coinReturn</obj_property>
+      <obj_property name="ObjectShortName">coinReturn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vendingTB/sprite" type="logic">
+      <obj_property name="ElementShortName">sprite</obj_property>
+      <obj_property name="ObjectShortName">sprite</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vendingTB/fanta" type="logic">
+      <obj_property name="ElementShortName">fanta</obj_property>
+      <obj_property name="ObjectShortName">fanta</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vendingTB/cherryCoke" type="logic">
+      <obj_property name="ElementShortName">cherryCoke</obj_property>
+      <obj_property name="ObjectShortName">cherryCoke</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vendingTB/cokeOut" type="logic">
+      <obj_property name="ElementShortName">cokeOut</obj_property>
+      <obj_property name="ObjectShortName">cokeOut</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vendingTB/spriteOut" type="logic">
+      <obj_property name="ElementShortName">spriteOut</obj_property>
+      <obj_property name="ObjectShortName">spriteOut</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vendingTB/waterOut" type="logic">
+      <obj_property name="ElementShortName">waterOut</obj_property>
+      <obj_property name="ObjectShortName">waterOut</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vendingTB/fantaOut" type="logic">
+      <obj_property name="ElementShortName">fantaOut</obj_property>
+      <obj_property name="ObjectShortName">fantaOut</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vendingTB/cherryCokeOut" type="logic">
+      <obj_property name="ElementShortName">cherryCokeOut</obj_property>
+      <obj_property name="ObjectShortName">cherryCokeOut</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vendingTB/dimeOut" type="logic">
+      <obj_property name="ElementShortName">dimeOut</obj_property>
+      <obj_property name="ObjectShortName">dimeOut</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vendingTB/quarterOut" type="logic">
+      <obj_property name="ElementShortName">quarterOut</obj_property>
+      <obj_property name="ObjectShortName">quarterOut</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vendingTB/halfDollarOut" type="logic">
+      <obj_property name="ElementShortName">halfDollarOut</obj_property>
+      <obj_property name="ObjectShortName">halfDollarOut</obj_property>
+   </wvobject>
+</wave_config>
