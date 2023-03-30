@@ -27,7 +27,8 @@ module homework1(
     input D,
     output result
     );
-											// 4 inputs (1 inverted) into two OR gates (2 each) into one AND gate
+
+// 4 inputs (1 inverted) into two OR gates (2 each) into one AND gate
 //wire AorD, BbarOrC, Bbar;
 
 assign result = ((A | D) & (~B | C));       // simplified C-like boolean logic
